@@ -1,0 +1,64 @@
+Total of minutiae detected: 62
+Total of singularities detected: 2
+Total of minutiae detected: 55
+Total of singularities detected: 4
+number of matched minutiae: 15
+distance total computed : 77
+number of minutiae in input image: 2154
+number of minutiae in database image: 77
+0: score for minutiae: 0.0134
+
+number of matched minutiae: 6
+distance total computed : 28
+number of minutiae in input image: 975
+number of minutiae in database image: 77
+1: score for minutiae: 0.0114
+
+number of matched minutiae: 19
+distance total computed : 79
+number of minutiae in input image: 2666
+number of minutiae in database image: 77
+2: score for minutiae: 0.0139
+
+number of matched minutiae: 5
+distance total computed : 24
+number of minutiae in input image: 1065
+number of minutiae in database image: 77
+3: score for minutiae: 0.0088
+
+number of matched minutiae: 0
+distance total computed : 0
+number of minutiae in input image: 0
+number of minutiae in database image: 77
+4: score for minutiae: 0.0
+
+number of matched minutiae: 4
+distance total computed : 22
+number of minutiae in input image: 1221
+number of minutiae in database image: 77
+5: score for minutiae: 0.0062
+
+number of matched minutiae: 9
+distance total computed : 37
+number of minutiae in input image: 1491
+number of minutiae in database image: 77
+6: score for minutiae: 0.0115
+
+number of matched minutiae: 2
+distance total computed : 9
+number of minutiae in input image: 730
+number of minutiae in database image: 77
+7: score for minutiae: 0.005
+
+number of matched minutiae: 1
+distance total computed : 4
+number of minutiae in input image: 1722
+number of minutiae in database image: 77
+8: score for minutiae: 0.0011
+
+number of matched minutiae: 0
+distance total computed : 0
+number of minutiae in input image: 422
+number of minutiae in database image: 77
+9: score for minutiae: 0.0
+
