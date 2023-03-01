@@ -1,0 +1,17 @@
+0: score for Gabor features: 13.0805
+
+1: score for Gabor features: 14.3872
+
+2: score for Gabor features: 15.8002
+
+3: score for Gabor features: 13.1165
+
+4: score for Gabor features: 14.8419
+
+5: score for Gabor features: 13.8974
+
+6: score for Gabor features: 13.4491
+
+7: score for Gabor features: 12.1295
+
+8: score for Gabor features: 13.4869
